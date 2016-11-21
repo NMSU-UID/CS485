@@ -1,0 +1,88 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x126)
+    Vendor:   Intel
+    VRAM:     848 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\wklue_000\Desktop\Classes\CS515 - UI\TeamLemmings\CS485\TeamLemmings\Plane Game\Builds\Plane Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\wklue_000\Desktop\Classes\CS515 - UI\TeamLemmings\CS485\TeamLemmings\Plane Game\Builds\Plane Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\wklue_000\Desktop\Classes\CS515 - UI\TeamLemmings\CS485\TeamLemmings\Plane Game\Builds\Plane Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\wklue_000\Desktop\Classes\CS515 - UI\TeamLemmings\CS485\TeamLemmings\Plane Game\Builds\Plane Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\wklue_000\Desktop\Classes\CS515 - UI\TeamLemmings\CS485\TeamLemmings\Plane Game\Builds\Plane Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\wklue_000\Desktop\Classes\CS515 - UI\TeamLemmings\CS485\TeamLemmings\Plane Game\Builds\Plane Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\wklue_000\Desktop\Classes\CS515 - UI\TeamLemmings\CS485\TeamLemmings\Plane Game\Builds\Plane Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\wklue_000\Desktop\Classes\CS515 - UI\TeamLemmings\CS485\TeamLemmings\Plane Game\Builds\Plane Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\wklue_000\Desktop\Classes\CS515 - UI\TeamLemmings\CS485\TeamLemmings\Plane Game\Builds\Plane Game_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\wklue_000\Desktop\Classes\CS515 - UI\TeamLemmings\CS485\TeamLemmings\Plane Game\Builds\Plane Game_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.081 seconds
+Platform assembly: C:\Users\wklue_000\Desktop\Classes\CS515 - UI\TeamLemmings\CS485\TeamLemmings\Plane Game\Builds\Plane Game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\wklue_000\Desktop\Classes\CS515 - UI\TeamLemmings\CS485\TeamLemmings\Plane Game\Builds\Plane Game_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.986503 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 6b8 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.163698 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 225.
+Total: 0.254528 ms (FindLiveObjects: 0.036537 ms CreateObjectMapping: 0.018884 ms MarkObjects: 0.160517 ms  DeleteObjects: 0.010263 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.582131 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 211.
+Total: 0.350592 ms (FindLiveObjects: 0.023400 ms CreateObjectMapping: 0.026684 ms MarkObjects: 0.202391 ms  DeleteObjects: 0.096885 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.658079 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 226.
+Total: 0.300508 ms (FindLiveObjects: 0.050495 ms CreateObjectMapping: 0.052547 ms MarkObjects: 0.186791 ms  DeleteObjects: 0.009031 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.622363 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 211.
+Total: 0.396572 ms (FindLiveObjects: 0.020115 ms CreateObjectMapping: 0.015189 ms MarkObjects: 0.235644 ms  DeleteObjects: 0.124390 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.510699 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 226.
+Total: 0.289834 ms (FindLiveObjects: 0.052547 ms CreateObjectMapping: 0.041874 ms MarkObjects: 0.183506 ms  DeleteObjects: 0.009852 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.601837 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 211.
+Total: 0.364140 ms (FindLiveObjects: 0.026684 ms CreateObjectMapping: 0.018063 ms MarkObjects: 0.218812 ms  DeleteObjects: 0.100169 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.520141 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 226.
+Total: 0.261918 ms (FindLiveObjects: 0.023400 ms CreateObjectMapping: 0.015600 ms MarkObjects: 0.211012 ms  DeleteObjects: 0.011084 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.628111 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 211.
+Total: 0.323908 ms (FindLiveObjects: 0.018063 ms CreateObjectMapping: 0.026273 ms MarkObjects: 0.185559 ms  DeleteObjects: 0.092779 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.417098 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 226.
+Total: 0.299276 ms (FindLiveObjects: 0.056242 ms CreateObjectMapping: 0.047210 ms MarkObjects: 0.184328 ms  DeleteObjects: 0.009852 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.465130 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 211.
+Total: 0.347308 ms (FindLiveObjects: 0.031610 ms CreateObjectMapping: 0.011905 ms MarkObjects: 0.198286 ms  DeleteObjects: 0.104685 ms)
+
