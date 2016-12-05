@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System;
 
 public class RingSpawner : MonoBehaviour {
 
@@ -21,7 +22,9 @@ public class RingSpawner : MonoBehaviour {
 
 	// Use this for initialization
 	void Start() {
-	
+        PlayerSettings playerSettings = GameObject.FindGameObjectWithTag( "PlayerSettings" ).GetComponent<PlayerSettings>();
+
+        UnityEngine.Random.InitState( Convert.ToInt32( playerSettings.levelSeed ) );
 	}
 	
 	// Update is called once per frame
@@ -32,7 +35,7 @@ public class RingSpawner : MonoBehaviour {
 
 			ringCounter++;
 
-			Instantiate( ringPrefab, transform.position + new Vector3( Random.Range( positionMinX, positionMaxX), Random.Range( positionMinY, positionMaxY) ), Quaternion.Euler( 0, 180, 0 ) );
+			Instantiate( ringPrefab, transform.position + new Vector3( UnityEngine.Random.Range( positionMinX, positionMaxX), UnityEngine.Random.Range( positionMinY, positionMaxY) ), Quaternion.Euler( 0, 180, 0 ) );
 
 			timer = spawnTime;
 		}

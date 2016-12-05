@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ring
+  - PlayerSettings
+  - JoystickControlsToggle
+  - InvertedJoystickToggle
+  - LevelSeedInputField
   layers:
   - Default
   - TransparentFX

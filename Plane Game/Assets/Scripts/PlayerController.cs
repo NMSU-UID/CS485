@@ -28,6 +28,26 @@ public class PlayerController : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
+        PlayerSettings playerSettings = GameObject.FindGameObjectWithTag( "PlayerSettings" ).GetComponent<PlayerSettings>();
+
+        if( playerSettings.joystickControls )
+        {
+            currentScheme = ControlScheme.JOYSTICK;
+        }
+        else
+        {
+            currentScheme = ControlScheme.MOUSE;
+        }
+
+        if( playerSettings.invertedJoystick )
+        {
+            inversion = -1;
+        }
+        else
+        {
+            inversion = 1;
+        }
+
 	}
 	
 	// Update is called once per frame
@@ -90,7 +110,9 @@ public class PlayerController : MonoBehaviour {
 
 			score++;
 
-			scoreText.text = "Score: " + score.ToString ();;
+			scoreText.text = "Score: " + score.ToString ();
+
+            col.GetComponent<SphereCollider>().enabled = false;
 		}
 	}
 }
